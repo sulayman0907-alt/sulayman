@@ -1,0 +1,7 @@
+git init
+git config --global user.email "ss@gmail.com"
+git config --global user.name "userName"
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/sulayman0907-alt/sulayman.git
